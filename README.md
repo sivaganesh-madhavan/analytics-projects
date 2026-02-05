@@ -1,15 +1,27 @@
 # analytics-projects
-Collection of data analytics done using agent, AI,  ETL, and data quality projects 
+Collection of projects demonstrating expertise in data engineering, AI system design, autonomous agents, and enterprise data quality solutions. This repository showcases practical implementations of ETL workflows, AI-driven analytics, agent-based automation, and interactive dashboards, reflecting scalable solutions for enterprise operations.
 
+Tools & Technologies
 
-Tools & Technologies:
+Programming & Scripting: Python, PySpark, JavaScript
 
-Programming & Scripting: Python, JavaScript
+Data & Analytics: Snowflake, SQL, Pandas, ETL frameworks, data quality tooling, BI
 
-Data & Analytics: Snowflake, Pandas, SQL, ETL frameworks
+AI & Automation: AgentForce, Retrieval-Augmented Generation (RAG), LLMOps pipelines, Einstein Vision, multi-modal AI, MCP servers, automation scripts, bots, APIs, web crawlers
 
-UI & Visualization: React, HTML/CSS, Tableau (or any dashboard tool you plan to use)
+UI & Visualization: React, HTML/CSS, Tableau, dashboard development
 
-Automation & Agents: Automation scripts, bots, APIs, web crawlers
+Enterprise Integrations: Salesforce, OpenAI, Anthropic, Google APIs
 
 Version Control & Collaboration: Git, GitHub
+
+
+How to Use This Repository
+
+Clone the repo:
+
+git clone https://github.com/<your-username>/analytics-projects.git
+
+Explore individual project folders for code, notebooks, and documentation.
+
+Each project includes a README.md detailing setup, dependencies, and usage instructions.
