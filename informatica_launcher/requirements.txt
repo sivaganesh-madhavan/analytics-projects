@@ -1,0 +1,11 @@
+# Informatica Launcher - Python Dependencies
+# Tkinter comes built-in with Python
+
+# Required for logo display
+pillow>=10.0.0
+
+# Required for quiz API
+requests>=2.31.0
+
+# Optional: For future enhancements
+# pywin32==305  # For system tray integration (Windows)

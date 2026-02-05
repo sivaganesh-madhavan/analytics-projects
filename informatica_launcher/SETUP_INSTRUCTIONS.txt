@@ -1,0 +1,52 @@
+====================================================================
+    INFORMATICA QUICK LAUNCHER - SETUP INSTRUCTIONS
+====================================================================
+
+SYSTEM REQUIREMENTS:
+- Windows 10 or 11
+- Python 3.7+ installed
+- Internet connection
+
+INSTALLATION STEPS:
+1. Extract this folder to any location (e.g., C:\Tools\informatica_launcher)
+
+2. Install Python dependencies:
+   - Open Command Prompt in this folder
+   - Run: pip install -r requirements.txt
+   
+3. Launch the application:
+   - Double-click "launcher.bat"
+   - OR run: python launcher.py
+
+FIRST TIME SETUP:
+- The launcher will work immediately with default settings
+- Quiz will fetch questions automatically
+- All tabs should be visible: Informatica | Apps | Quiz
+
+CUSTOMIZATION:
+- Edit config.json to add/remove environments or apps
+- Replace logo files to use custom icons
+- Click "⟳ Reload" button to refresh after changes
+
+TROUBLESHOOTING:
+Q: "Python is not installed"
+A: Download from https://python.org/downloads/
+
+Q: Quiz not loading
+A: Run: pip install requests
+
+Q: Okta login not working
+A: Make sure you're logged into Okta in your default browser
+
+Q: Icons not showing
+A: Run: pip install pillow
+
+USAGE:
+1. Click any environment button to launch via Okta SSO
+2. Click "Logout from Okta" before switching environments
+3. Check "Quiz" tab for daily analytical questions
+
+SUPPORT:
+Contact your IT administrator for access issues.
+
+====================================================================

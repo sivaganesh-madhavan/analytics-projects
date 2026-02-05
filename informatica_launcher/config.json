@@ -1,0 +1,61 @@
+{
+  "okta_domain": "https://salesforce.okta.com/",
+  "launch_mode": "default",
+  "okta_logout_url": "https://salesforce.okta.com/login/signout",
+  "categories": {
+    "Informatica": [
+    {
+      "name": "Development",
+      "shortName": "DEV",
+      "type": "default",
+      "url": "https://salesforce.okta.com/home/salesforce_informaticamdmdev_1/0oa6hs84yd9KcLuCD697/aln6hswemm3XbZ34b697",
+      "description": "Development environment"
+    },
+    {
+      "name": "Quality Assurance",
+      "shortName": "QA",
+      "type": "default",
+      "url": "https://salesforce.okta.com/home/salesforce_informaticamdmqa_1/0oa8eh5nyu8O7ULLa697/aln8eha9pbDLzujkD697",
+      "description": "QA testing environment"
+    },
+    {
+      "name": "UAT",
+      "shortName": "UAT",
+      "type": "default",
+      "url": "https://salesforce.okta.com/home/salesforce_informaticamdmuat_1/0oa92s7821P3AwURJ697/aln92smf9wJX5pAii697",
+      "description": "User Acceptance Testing"
+    },
+    {
+      "name": "UAT New",
+      "shortName": "UAT NEW",
+      "type": "default",
+      "url": "https://salesforce.okta.com/home/salesforce_informaticamdmuatnew_1/0oanx0bp79oM0uwvt697/alnnx18rek7buODlH697",
+      "description": "UAT New environment"
+    },
+    {
+      "name": "Performance",
+      "shortName": "PERF",
+      "type": "default",
+      "url": "https://salesforce.okta.com/home/salesforce_informaticamdmperf_1/0oa8r0nsw8wuJdGrS697/aln8r153vscKgZp9M697",
+      "description": "Performance testing"
+    },
+    {
+      "name": "Production",
+      "shortName": "PROD",
+      "type": "default",
+      "url": "https://salesforce.okta.com/home/salesforce_mdmprod_1/0oaa13az403KXEN6S697/alna13dxd8RN2akwM697",
+      "description": "Production environment"
+    }
+    ],
+    "Apps": [
+      {
+        "name": "Optum HSA",
+        "shortName": "Optum HSA",
+        "type": "default",
+        "url": "https://salesforce.okta.com/home/bookmark/0oa54tflnNpJND2su696/2557",
+        "description": "Optum Financial HSA Account",
+        "icon": "optum_logo.png"
+      }
+    ]
+  }
+}

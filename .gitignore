@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Personal/Generated Files
+quiz_cache.json
+access_log.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary
+*.tmp
+*.temp
+~*
+
+# Logs
+*.log
+
+# Distribution
+build/
+dist/
+*.egg-info/
+
+
+# Informatica Launcher - generated / personal
+informatica_launcher/quiz_cache.json
+informatica_launcher/access_log.txt
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
