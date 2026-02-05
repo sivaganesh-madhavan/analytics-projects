@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Focus](https://img.shields.io/badge/Focus-Data%20Engineering%20%26%20AI-blue)
-![License](https://img.shields.io/badge/License-MIT-orange)
+
 
 > **Scalable solutions for enterprise operations.**
 > A collection of projects demonstrating expertise in Data Engineering, AI System Design, Autonomous Agents, and Enterprise Data Quality.
@@ -42,23 +42,6 @@ This repository showcases practical implementations of **ETL workflows**, **AI-d
 ## 📂 Featured Projects
 
 | Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🤖 Enterprise RAG Agent** | An autonomous agent utilizing Retrieval-Augmented Generation for internal docs. | `Python` `LangChain` `OpenAI` |
-| **📊 Sales Analytics Dashboard** | Real-time ETL pipeline feeding a Tableau dashboard for sales forecasting. | `Snowflake` `SQL` `Tableau` |
-| **imge_processor_bot** | Einstein Vision integration for automated image classification. | `Python` `Einstein Vision` |
+<<comingsoon>>
 
-*(Note: Click the project names to navigate to their specific folders)*
 
----
-
-## 🏗 Architecture & Workflows
-
-### Standard ETL Pipeline
-*Below is a high-level overview of the data ingestion pipelines used in these projects.*
-
-```mermaid
-graph LR
-    A[Raw Data (Salesforce/API)] -->|Ingest| B(Python/Scripts)
-    B -->|Transform| C{Snowflake DW}
-    C -->|Analyze| D[AI Models/RAG]
-    C -->|Visualize| E[Tableau/React]
